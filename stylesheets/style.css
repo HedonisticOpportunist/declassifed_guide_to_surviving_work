@@ -1,0 +1,22 @@
+.main_page_list
+{
+    list-style: circle;
+    padding: 10px;
+}
+
+.container-fluid
+{
+  background-color: #F8EDE3;
+}
+
+.text-centre
+{
+  padding: 10px;
+  background-color: #AEBDCA;
+}
+
+#kitty_laptop
+{
+  float: left;
+  padding: 5px;
+}
